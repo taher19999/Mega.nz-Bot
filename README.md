@@ -24,7 +24,7 @@ A simple telegram bot to download, upload files or folders from [Mega.nz](https:
 Deploy your own Bot ♥️! **Star 🌟 Fork 🍴 and Deploy**
 
 ### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Itz-fork/X-Bin-Patch#deployment)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/taher19999/Mega.nz-Bot)
 
 ### Local
 ---
